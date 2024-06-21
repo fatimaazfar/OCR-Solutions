@@ -76,7 +76,7 @@ To use Google Cloud Vision, you need to set up the API and get the credentials J
 To extract text using Tesseract OCR:
 
 1. Install Tesseract on your system:
-   - On Windows: Download the installer from [here]([https://github.com/tesseract-ocr/tesseract/wiki](https://github.com/tesseract-ocr/tessdoc)).
+   - On Windows: Download the installer from [here](https://github.com/tesseract-ocr/tessdoc).
    - On macOS: Use Homebrew: `brew install tesseract`.
    - On Linux: Use your package manager, e.g., `sudo apt-get install tesseract-ocr`.
 
@@ -177,7 +177,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## License
 
-Distributed under the Apache 2.0 License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
